@@ -16,6 +16,9 @@ function Navbar(){
                 width={150}/>
                 <p className="logo_title_navbar">YouTube</p>
             </div>
+            <div>
+                Web
+            </div>
 
            </div>
         </div>
